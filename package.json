@@ -1,8 +1,8 @@
 {
-  "name": "radon-games",
-  "description": "An open-source unblocked games website built with simplicity in mind.",
+  "name": "OnlineGames",
+  "description": "OnlineGames.",
   "version": "4.2.0",
-  "author": "Cohen Erickson <cohen@radon.games>",
+  "author": "Sally Mohamed <engsallycis@gmail.com>",
   "type": "module",
   "license": "GNU v2",
   "scripts": {
