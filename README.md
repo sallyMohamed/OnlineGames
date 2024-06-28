@@ -23,6 +23,4 @@ pnpm run preview
 
 ### Where to get help
 
-For questions and suggestions please join our [Discord server](https://discord.gg/C2fbK35Rhg)
-
-For any website/game issues please create a new GitHub issue
+For questions and suggestions please contact me engsallycis@gmail.com
