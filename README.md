@@ -8,7 +8,7 @@
 </h1>
 
 <p align="center">
-  Online Games website built with simplicity in mind.
+  Online Games.
 </p>
   
 ### Installation
