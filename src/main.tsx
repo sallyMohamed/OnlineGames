@@ -16,7 +16,7 @@ import { AnimatePresence } from "framer-motion";
 import { render } from "preact";
 import { Router, Route } from "preact-router";
 
-const title = localStorage.getItem("title")?.trim() || "Radon Games";
+const title = localStorage.getItem("title")?.trim() || "OnlineGames";
 document.title = title;
 const icon = localStorage.getItem("icon")?.trim() || "/favicon.ico";
 document.querySelector('link[rel="icon"]')!.setAttribute("href", icon);
